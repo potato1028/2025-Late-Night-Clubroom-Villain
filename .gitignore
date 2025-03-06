@@ -1,0 +1,12 @@
+# Unity 관련 파일 제외
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+Packages/com.unity.package-manager-do-not-use.lock
+*.csproj
+*.sln
+*.userprefs
