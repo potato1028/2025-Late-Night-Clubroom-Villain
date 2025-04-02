@@ -22,4 +22,6 @@
 
 # OS files
 .DS_Store
-Thumbs.db
+Thumbs.dbLibrary/
+Temp/
+Obj/
